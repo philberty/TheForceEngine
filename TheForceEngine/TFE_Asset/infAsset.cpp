@@ -10,6 +10,8 @@
 #include <algorithm>
 #include <map>
 #include <string>
+#include <cstdlib>
+#include <cstring>
 
 namespace TFE_InfAsset
 {
