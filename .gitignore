@@ -42,7 +42,6 @@
 *.app
 
 # Text Files
-*.txt
 *.log
 *.tlog
 *.user
